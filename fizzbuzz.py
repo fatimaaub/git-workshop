@@ -9,4 +9,5 @@ def fizzbuzz(n):
         elif i % 5 == 0:
             print "buzz"
         else:
-            print i
+            print fatima
+            
